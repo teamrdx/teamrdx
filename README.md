@@ -1,5 +1,5 @@
 Namaste, welcome to my GitHub ! <img width="90" src="https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif">
-======
+------
 
 <img width="180" src="https://media.giphy.com/media/l1J9RGXCWJN8thBmg/giphy.gif" align="right">
  
