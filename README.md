@@ -1,4 +1,4 @@
-<div border="1px solid green">
+<div style="border:1px solid green">
   
   <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Fullstack Web Developer 👨‍💻 AI enthusiasts 🤖 and currently exploring Blockchain Tech ⛏️ </samp></h4>
 
