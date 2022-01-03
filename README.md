@@ -10,9 +10,7 @@ Namaste, welcome to my GitHub ! <img width="90" src="https://media.giphy.com/med
 [![Linkedin Badge](https://img.shields.io/badge/-Biplav%20Dahal-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biplavdahal/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@piratedprince-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=piratedprince "Follow on Twitter")
 [![WhatsApp Badge](https://img.shields.io/badge/-Biplav%20Dahal-128C7E?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/qr/TIMIUO7DEYK5P1 "Chat in WhatsApp")
-
-  
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=teamrdx4465&left_color=green&right_color=red)
  
 
 
