@@ -12,10 +12,16 @@ Namaste, welcome to my GitHub ! <img width="90" src="https://media.giphy.com/med
 [![WhatsApp Badge](https://img.shields.io/badge/-Biplav%20Dahal-128C7E?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/qr/TIMIUO7DEYK5P1 "Chat in WhatsApp")
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=teamrdx4465&left_color=green&right_color=red)
  
+------
+ 
 
 [![Biplav's GitHub stats](https://github-readme-stats.vercel.app/api?username=teamrdx&count_private=true&show_icons=true&theme=vue&hide=stars,issues,contribs&border_color=128C7E)](https://github.com/teamrdx)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamrdx&repo=porto&show_owner=true)](https://github.com/teamrdx/porto)
+### Repositories
+------
+ 
+[![Portfolio Repo](https://github-readme-stats.vercel.app/api/pin/?username=teamrdx&repo=porto&show_owner=true)](https://github.com/teamrdx/porto)
+[![Resume Repo](https://github-readme-stats.vercel.app/api/pin/?username=teamrdx&repo=myResume&show_owner=true)](https://github.com/teamrdx/myResume)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamrdx&langs_count=9&layout=compact)](https://github.com/teamrdx)
 
