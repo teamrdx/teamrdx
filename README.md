@@ -13,5 +13,13 @@ Namaste, welcome to my GitHub ! <img width="90" src="https://media.giphy.com/med
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=teamrdx4465&left_color=green&right_color=red)
  
 
+[![Biplav's GitHub stats](https://github-readme-stats.vercel.app/api?username=teamrdx&count_private=true&show_icons=true&theme=vue&hide=stars,issues,contribs&border_color=128C7E)](https://github.com/teamrdx)
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamrdx&repo=porto&show_owner=true)](https://github.com/teamrdx/porto)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamrdx&langs_count=9&layout=compact)](https://github.com/teamrdx)
+
+
+
 
 
