@@ -39,7 +39,38 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamrdx&langs_count=9&layout=compact)](https://github.com/teamrdx)
  
 ### Tools & Technologies
-<img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/acer.svg" />
+ <div style="display:flex;">
+<img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" />
+<img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/react.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/styledcomponents.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/visualstudio.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/nodedotjs.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/json.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/linux.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/flutter.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/express.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/graphql.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/mongodb.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/postgresql.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/digitalocean.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/gatsby.svg" />
+ <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/nextdotjs.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/npm.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/androidstudio.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/dart.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/c.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/tensorflow.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/sass.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/materialdesign.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/bootstrap.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/tailwindcss.svg" />
+  <img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/amazonaws.svg" />
+  <div>
 
 
 
