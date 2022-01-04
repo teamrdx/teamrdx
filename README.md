@@ -16,7 +16,11 @@ Namaste, welcome to my GitHub ! <img width="90" src="https://media.giphy.com/med
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=teamrdx4465&left_color=green&right_color=red)
 ------
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teamrdx&date_format=j%20M%5B%20Y%5D&border=128C7E&ring=5FC397&fire=5FC397&currStreakLabel=5FC397)](https://git.io/streak-stats)
+ ####  <samp>Joke of the Day 😆 </samp> 
+> <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="Jokes Card"/>
+ ------
+
+ 
  
 [![Biplav's GitHub stats](https://github-readme-stats.vercel.app/api?username=teamrdx&count_private=true&show_icons=true&theme=vue&hide=stars,issues,contribs&border_color=128C7E)](https://github.com/teamrdx)
 
@@ -27,6 +31,8 @@ Namaste, welcome to my GitHub ! <img width="90" src="https://media.giphy.com/med
 [![Resume Repo](https://github-readme-stats.vercel.app/api/pin/?username=teamrdx&repo=myResume&show_owner=true)](https://github.com/teamrdx/myResume)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamrdx&langs_count=9&layout=compact)](https://github.com/teamrdx)
+ 
+
 
 
 
