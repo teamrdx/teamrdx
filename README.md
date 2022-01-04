@@ -1,24 +1,30 @@
-Namaste, welcome to my GitHub ! <img width="90" src="https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif">
-------
+<img width="60" src="https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif">
+<img  src="https://readme-typing-svg.herokuapp.com?color=%23128C7E&lines=Namaste!+Welcome+to+my+Github" alt="typying text"/>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=teamrdx&column=9&theme=flat)](https://github.com/teamrdx)
 
 <img width="180" src="https://media.giphy.com/media/l1J9RGXCWJN8thBmg/giphy.gif" align="right">
  
 ##### <samp>I am a Self taught developer living in Berlin, Germany working as a full stack web developer. I have 2+ years experience in JavaScript with a focus on React, Node, APIs and micro-services. In my spare time, I am an avid long form reader, lover of all productivity hacking tools and is a pure spiritual being ☮️.
 ##### <samp> I am also passionate about AI 🤖, Blockchain ⚒️, Pythonic programming 🐍, and open source :octocat:. I would love to learn and contribute in every possible way.</samp>
 
-* ask me about anything, i am happy to help ❓
-* any freelance work? do reach me. 👨‍💼
+ * <samp>ask me about anything, i am happy to help </samp>❓
+ * <samp>any freelance work? do reach me.</samp> 👨‍💼
 
 [![Gmail Badge](https://img.shields.io/badge/-hi.biplav-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hi.biplav@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Biplav%20Dahal-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biplavdahal/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@piratedprince-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=piratedprince "Follow on Twitter")
 [![WhatsApp Badge](https://img.shields.io/badge/-Biplav%20Dahal-128C7E?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/qr/TIMIUO7DEYK5P1 "Chat in WhatsApp")
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=teamrdx4465&left_color=green&right_color=red)
+ 
 ------
  
- ####  <samp>Joke of the Day 😆 </samp> 
-> <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="Jokes Card"/>
- ------
+
+ <img src="https://quotes-github-readme.vercel.app/api" src="quotes" align="right"/> 
+
+####  <samp>Thought of the Day 😆 </samp> 
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=vue" alt="Jokes Card"/>
 
  
  
@@ -32,9 +38,8 @@ Namaste, welcome to my GitHub ! <img width="90" src="https://media.giphy.com/med
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamrdx&langs_count=9&layout=compact)](https://github.com/teamrdx)
  
-
-
-
+### Tools & Technologies
+<img height="60" width="60" src="https://unpkg.com/simple-icons@v6/icons/acer.svg" />
 
 
 
